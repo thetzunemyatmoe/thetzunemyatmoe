@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am a final-year Artificial Intelligence and Computer Science student, currently focused on researching and developing energy-efficient coverage control for multi-UAVs using reinforcement learning. I make time outside of my studies to work on MERN stack projects, enhancing my full-stack web development skills for future job opportunities.<br><br>I’m eager to expand my industry-related knowledge, particularly in modern software engineering principles, the software development life cycle, and Agile methodologies, as well as technical and behavioral interviews, to become a reliable and knowledgeable software engineer after graduation. I’m also interested in learning how to integrate AI, machine learning, and computer vision techniques into my side projects.<br><br>At the moment, I’m diving deep into computer vision, image processing, machine learning, reinforcement learning, and robotics—key areas in my final year modules. I’m passionate about these fields and excited to apply them in real-world scenarios.<br><br>I’m passionate about AI and web/app development, solving LeetCode problems of various kinds and enjoy participating in hackathons. I’m open to collaborating with others in hackathons or hearing about any opportunities to compete or team up with like-minded individuals.
 
 
@@ -12,11 +12,6 @@ I am a final-year Artificial Intelligence and Computer Science student, currentl
 ![](https://github-readme-stats.vercel.app/api?username=thetzunemyatmoe&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thetzunemyatmoe&theme=tokyonight&hide_border=false)<br/>
 [](https://github-readme-stats.vercel.app/api/top-langs/?username=thetzunemyatmoe&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=thetzunemyatmoe&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=thetzunemyatmoe&limit=5&theme=dark&combine_all_yearly_contributions=true)
