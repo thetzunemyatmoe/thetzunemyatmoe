@@ -1,7 +1,7 @@
 # About Me:
 Recent AI and CS graduate from University of Birmingham. I am seeking internships, entry level roles, graduate roles and junior role in Software Engineering, AI and ML. 
 
-My interests span Artificial Intelligence, Machine Learning, Reinforcement Learning, Robotics, Computer Vision, the Internet of Things, and Full Stack Development, with a focus on their real-world and business applications.
+My interests span Artificial Intelligence, Machine Learning, Reinforcement Learning, Robotics, Computer Vision, Internet of Things, and Full Stack Development, with a focus on their real-world and business applications.
 
 I’m always open to connecting with like-minded individuals and discussing these topics.
 
